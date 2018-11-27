@@ -1,0 +1,6 @@
+[package]
+name = "grep_command"
+version = "0.1.0"
+authors = ["hiroendore <31302201+hiroendore@users.noreply.github.com>"]
+
+[dependencies]
